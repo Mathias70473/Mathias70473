@@ -47,7 +47,7 @@ Excel   ████████████████████░  95%  (A
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/mathias70473](https://www.linkedin.com/in/mathias70473)
+- 💼 **LinkedIn:** [linkedin.com/in/mathias70473](www.linkedin.com/in/mathiasgomez-ds)
 - 📧 **Email:** mathias70473@gmail.com
 - 🗣️ **Languages:** Spanish (Native), English (C1 - Advanced)
 
